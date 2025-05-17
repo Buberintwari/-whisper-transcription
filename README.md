@@ -1,5 +1,9 @@
 # 🎙️ Whisper Speech-to-Text App (Multilingual: French, English, etc.)
 
+> ## 🚀 Tester le modèle en ligne
+
+👉 [Accéder à l'application sur Hugging Face Spaces](https://huggingface.co/spaces/Buberintwari/whisper-transcription)
+
 Cette application propose une transcription automatique de la voix vers le texte à l'aide du modèle **Whisper** d'OpenAI, un modèle auto-supervisé de pointe en reconnaissance vocale (ASR - Automatic Speech Recognition). Elle fonctionne **en français, anglais et dans plus de 90 langues**.
 
 Fonctionne parfaitement pour :
