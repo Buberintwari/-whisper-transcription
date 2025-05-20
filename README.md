@@ -1,4 +1,9 @@
 # 🎙️ Whisper Speech-to-Text App (Multilingual: French, English, etc.)
+## 🎥 Démonstration Vidéo
+
+Cliquez sur l'image ci-dessous pour regarder la vidéo de démonstration sur YouTube :
+
+[![Regarder la vidéo](https://img.youtube.com/vi/UfpPbyImqp0/0.jpg)](https://youtu.be/UfpPbyImqp0)
 
 > ## 🚀 Tester le modèle en ligne
 
